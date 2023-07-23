@@ -1,0 +1,16 @@
+[
+    {
+        "ticker": "CRO",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14532.png",
+        "name": "Cronos",
+        "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+        "decimals": 18
+    },
+    {
+        "ticker": "USDC",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlo33PdWtxav-AZbMVEddFKHcugmZgjEje0R1ewI&s",
+        "name": "USDC Token",
+        "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+        "decimals": 18
+    }
+]
